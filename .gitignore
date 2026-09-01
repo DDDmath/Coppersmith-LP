@@ -1,0 +1,19 @@
+# Python / SageMath caches
+__pycache__/
+*.py[cod]
+*.sage.py
+.sage/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local outputs
+results/
+*.log
