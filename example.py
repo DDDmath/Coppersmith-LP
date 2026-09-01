@@ -4,7 +4,7 @@
 
 Run from the repository root with
 
-    sage -python example.py
+    sage example.py
 """
 
 import time
