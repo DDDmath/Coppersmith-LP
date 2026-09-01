@@ -24,7 +24,7 @@ conda activate copper-lp
 ## Running the example
 
 ```bash
-sage -python example.py
+sage example.py
 ```
 
 The included three-sample MIHNP example should return the symmetric exponent
